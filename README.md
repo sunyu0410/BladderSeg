@@ -13,6 +13,6 @@ Price has contoured a selection of cases (n=40, 20 Ga-68 Octreotate & 20 Ga-68 P
 Starting from the typical U-net structure and fine tune with customised loss functions. Since there is a limited number of cases that neighbouring malignancy influences the bladder activity, data augmentation can be performed to synthesise such cases.
 
 ## Contact
-Yu: yu.sun@sydney.edu.au
+Yu: sunyu0410@gmail.com or yu.sun@sydney.edu.au
 
 Price: price.jackson@petermac.org
