@@ -10,7 +10,7 @@ The main objective is to develope a model to identify high-uptake regions in the
 Price has contoured a selection of cases (n=40, 20 Ga-68 Octreotate & 20 Ga-68 PSMA) with bladder defined to CT and approximate PET margins. Yu will perform an initial investigation on this dataset. Price will contour more upon request.
 
 ## Plans
-Starting from the typical U-net structure and fine tune with customised loss functions. Since there is a limited number of cases that neighbouring malignancy influences the bladder activity, data augmentation can be performed to synthesise such cases.
+Start from the typical U-net structure and fine tune with customised loss functions. Since there is a limited number of cases that neighbouring malignancy influences the bladder activity, data augmentation can be performed to synthesise such cases.
 
 ## Contact
 Yu: sunyu0410@gmail.com or yu.sun@sydney.edu.au
